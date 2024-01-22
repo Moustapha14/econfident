@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/projet-ipssi/static/css/main.f855e6bc.css",
+    "main.js": "/projet-ipssi/static/js/main.84d475d3.js",
+    "static/js/787.61bd5fb0.chunk.js": "/projet-ipssi/static/js/787.61bd5fb0.chunk.js",
+    "index.html": "/projet-ipssi/index.html",
+    "main.f855e6bc.css.map": "/projet-ipssi/static/css/main.f855e6bc.css.map",
+    "main.84d475d3.js.map": "/projet-ipssi/static/js/main.84d475d3.js.map",
+    "787.61bd5fb0.chunk.js.map": "/projet-ipssi/static/js/787.61bd5fb0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.84d475d3.js"
+  ]
+}
